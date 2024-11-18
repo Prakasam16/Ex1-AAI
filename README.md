@@ -1,7 +1,7 @@
 <H3> Name : PRAKASAM P</H3>
 <H3>Register No: 212222040118</H3>
 <H3> Experiment 1</H3>
-<H3>DATE:01/09/2024</H3>
+<H3>DATE:</H3>
 
 # Implementation of Bayesian Networks
 
